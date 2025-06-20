@@ -27,5 +27,4 @@ Diseñado con google stitch y figma, por lo tanto se definieron 6 pantallas:
 - JavaScript para navegación
 - Compatible con dispositivos móviles
 
-##  Estructura del proyecto
 
