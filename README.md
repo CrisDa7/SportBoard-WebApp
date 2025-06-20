@@ -1,7 +1,5 @@
 # SportBoard WebApp 🏋️‍♂️
 
-Aplicación web diseñada con enfoque en buenas prácticas de UX para el control de actividades deportivas. Incluye dashboard, gestión de equipos, calendario y estadísticas.
-
 ## 🧠 Investigación UX
 
 Realizada con Google NotebookLM, abordando:
@@ -15,7 +13,7 @@ Realizada con Google NotebookLM, abordando:
 
 ## 🎨 Diseño de Interfaces
 
-Diseñado con Google Stitch / Figma. Se definieron 6 pantallas:
+Diseñado con google stitch y figma, por lo tanto se definieron 6 pantallas:
 1. Login / Registro
 2. Dashboard
 3. Equipos
@@ -25,8 +23,8 @@ Diseñado con Google Stitch / Figma. Se definieron 6 pantallas:
 
 ## 💻 Implementación
 
-- HTML5 + CSS3 (responsivo con Flexbox)
-- JavaScript (opcional) para navegación
+- HTML5 + CSS3 
+- JavaScript para navegación
 - Compatible con dispositivos móviles
 
 ## 📁 Estructura del proyecto
