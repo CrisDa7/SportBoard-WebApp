@@ -1,6 +1,6 @@
-# SportBoard WebApp 🏋️‍♂️
+# SportBoard WebApp 
 
-## 🧠 Investigación UX
+##  Investigación UX
 
 Realizada con Google NotebookLM, abordando:
 - Diseño intuitivo y responsive
@@ -11,7 +11,7 @@ Realizada con Google NotebookLM, abordando:
 - ¿Cuáles son las mejores prácticas de UX en apps deportivas?
 - ¿Cómo organizar interfaces para dashboards deportivos?
 
-## 🎨 Diseño de Interfaces
+##  Diseño de Interfaces
 
 Diseñado con google stitch y figma, por lo tanto se definieron 6 pantallas:
 1. Login / Registro
@@ -21,11 +21,11 @@ Diseñado con google stitch y figma, por lo tanto se definieron 6 pantallas:
 5. Estadísticas
 6. Configuración
 
-## 💻 Implementación
+##  Implementación
 
 - HTML5 + CSS3 
 - JavaScript para navegación
 - Compatible con dispositivos móviles
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
