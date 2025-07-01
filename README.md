@@ -1,5 +1,13 @@
-![image](https://github.com/user-attachments/assets/f2beaa73-bd69-4b32-84c7-de638c0b7d30)
-![image](https://github.com/user-attachments/assets/ef43c6ce-95ea-4748-bd6d-79ad09f21b3d)
+![Captura desde 2025-07-01 00-46-01](https://github.com/user-attachments/assets/640ef174-e57a-412d-a9ce-9ea5f06b983a)
+![Captura desde 2025-07-01 00-46-09](https://github.com/user-attachments/assets/b9ecd1a1-00a6-4eae-a97a-c2844892d8ed)
+![Captura desde 2025-07-01 00-46-14](https://github.com/user-attachments/assets/a83441a6-928c-482c-b649-dbc22a59a07d)
+![Captura desde 2025-07-01 00-46-22](https://github.com/user-attachments/assets/31df925e-3395-47b7-ab37-4f3016b1a000)
+![Captura desde 2025-07-01 00-46-34](https://github.com/user-attachments/assets/4d374b44-f846-4636-a5b0-22000c2ea68f)
+
+
+
+
+
 
 # SportBoard App
 
